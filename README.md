@@ -10,7 +10,7 @@ This plugin provides a work around to obtain these values in javascript. You wil
 
 ## Installation
 
-`cordova plugin add totalpave/cordova-plugin-insets`
+`cordova plugin add totalpave-cordova-plugin-insets`
 
 ## Supported Platforms
 
