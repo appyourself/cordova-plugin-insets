@@ -1,5 +1,5 @@
 
-@totalpave/cordova-plugin-insets
+totalpave/cordova-plugin-insets
 --------------------------------
 
 # Changelog

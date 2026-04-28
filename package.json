@@ -1,5 +1,5 @@
 {
-  "name": "@totalpave/cordova-plugin-insets",
+  "name": "totalpave/cordova-plugin-insets",
   "version": "0.4.6",
   "description": "Cordova Android Plugin to receive native information regarding the unsafe area insets.",
   "main": "www/insets.js",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/totalpaveinc/cordova-plugin-insets.git"
+    "url": "git+https://github.com/@totalpaveinc/cordova-plugin-insets.git"
   },
   "author": "norman.breau@totalpave.com",
   "license": "Apache 2.0",
